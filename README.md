@@ -100,7 +100,7 @@ kaggle 데이터를 활용한 분리수거물 분류사이트
 ✔️ 담당 페이지 css 구현 <br>
 
 ## 지구하러갈래 
-(https://www.notion.so/Earth-apa-9b336a12f35f4e63b10f8ef73c293314)👈 link
+(https://www.notion.so/Earth-apa-9b336a12f35f4e63b10f8ef73c293314) 👈 link
 
 ![image](https://user-images.githubusercontent.com/79038451/149770791-9d55df52-8aa2-463c-8fa3-763d69cb0b71.png)
 ![image](https://user-images.githubusercontent.com/79038451/149770825-9df48fe6-e010-4965-ad17-9ea8bcea1d7b.png)
