@@ -101,8 +101,7 @@ kaggle 데이터를 활용한 분리수거물 분류사이트
 ✔️ DB, CRUD 관리<br>
 ✔️ 담당 페이지 css 구현 <br>
 
-## 지구하러갈래 
-
+## API소개
 
 ![image](https://user-images.githubusercontent.com/79038451/149770791-9d55df52-8aa2-463c-8fa3-763d69cb0b71.png)
 ![image](https://user-images.githubusercontent.com/79038451/149770825-9df48fe6-e010-4965-ad17-9ea8bcea1d7b.png)
