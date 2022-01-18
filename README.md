@@ -61,9 +61,13 @@ kaggle 데이터를 활용한 분리수거물 분류사이트
 ## 사용도구
 - HTML, CSS
 - Javascript - Ajax
-- Python - pymongo, flask, datetime, requests
-- 
+- Python - pymongo, flask, datetime, requests, tensorflow, bs4
+- kolab pro, teachable machine
 - GIT / GIT Hub
+
+### Collaboration & Tools
+- Slack & gather
+- Figma
 
 ## 팀빌딩 및 역할
 - 부트캠프 <스파르타 내일배움캠프> 참가자로 구성
@@ -107,16 +111,6 @@ kaggle 데이터를 활용한 분리수거물 분류사이트
 ![image](https://user-images.githubusercontent.com/79038451/149770825-9df48fe6-e010-4965-ad17-9ea8bcea1d7b.png)
 ![image](https://user-images.githubusercontent.com/79038451/149770857-999fed27-64c5-48b5-baf7-7cd252970224.png)
 
-## 와이어프레임
-### 워크플로우 차트
-![image](https://user-images.githubusercontent.com/79038451/149771001-9b334d4a-3a8b-47e3-87f7-42719ea47a91.png)
-
-### 전체 와이어프레임
-#### 로그인 페이지
-#### 회원가입 페이지
-#### 피드 페이지
-#### 마이 페이지
-#### 게시물 작성 페이지
 
 
 
