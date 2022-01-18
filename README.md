@@ -62,7 +62,7 @@ kaggle 데이터를 활용한 분리수거물 분류사이트
 - HTML, CSS
 - Javascript - Ajax
 - Python - pymongo, flask, datetime, requests, tensorflow, bs4
-- kolab pro, teachable machine
+- colab pro, teachable machine
 - GIT / GIT Hub
 
 ### Collaboration & Tools
